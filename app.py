@@ -1,7 +1,7 @@
 # ==============================================================
 # PROJETO: Classificação de Consumo de Água
 # CURSO: Técnico em Desenvolvimento de Sistemas
-# ALUNO: (coloque seu nome aqui)
+# ALUNO: (Bianca Weiss)
 # DESCRIÇÃO: Classifica o perfil de consumo de água dos imóveis
 #            e emite alertas educativos aos moradores.
 # ==============================================================
