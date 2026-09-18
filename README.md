@@ -1,9 +1,8 @@
 💧 Classificação de Consumo de Água
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Consumo-Consciente-00BFFF?style=for-the-badge&logo=water&logoColor=white
-https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
 
 📖 Sobre o Projeto
 Sistema desenvolvido em Python para a companhia de saneamento da cidade, como parte de uma campanha de conscientização ambiental.
